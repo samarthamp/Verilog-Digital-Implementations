@@ -1,0 +1,77 @@
+$date
+	Sun Oct  6 22:42:19 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module q9b_test $end
+$var wire 1 ! B $end
+$var wire 1 " A $end
+$var reg 1 # clk $end
+$var reg 1 $ reset $end
+$scope module uut $end
+$var wire 1 # clk $end
+$var wire 1 $ reset $end
+$var reg 1 " A $end
+$var reg 1 ! B $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 % i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+1$
+0#
+0"
+0!
+$end
+#5
+1#
+#10
+0#
+b0 %
+0$
+#15
+1!
+1#
+#20
+0#
+b1 %
+#25
+0!
+1"
+1#
+#30
+0#
+b10 %
+#35
+0"
+1#
+#40
+0#
+b11 %
+#45
+1!
+1#
+#50
+0#
+b100 %
+#55
+0!
+1"
+1#
+#60
+0#
+b101 %
+#65
+0"
+1#
+#70
+0#
+b110 %

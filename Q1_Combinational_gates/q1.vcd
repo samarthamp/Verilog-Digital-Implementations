@@ -1,0 +1,61 @@
+$date
+	Wed Oct  9 01:54:21 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module gates_test $end
+$var wire 1 ! Xor $end
+$var wire 1 " Xnor $end
+$var wire 1 # Or $end
+$var wire 1 $ Not $end
+$var wire 1 % Nor $end
+$var wire 1 & Nand $end
+$var wire 1 ' And $end
+$var reg 1 ( a $end
+$var reg 1 ) b $end
+$scope module uut $end
+$var wire 1 ( A $end
+$var wire 1 ' And $end
+$var wire 1 ) B $end
+$var wire 1 & Nand $end
+$var wire 1 % Nor $end
+$var wire 1 $ Not $end
+$var wire 1 # Or $end
+$var wire 1 " Xnor $end
+$var wire 1 ! Xor $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0)
+0(
+0'
+1&
+1%
+1$
+0#
+1"
+0!
+$end
+#10
+0%
+0"
+1#
+1!
+1)
+#20
+0$
+0)
+1(
+#30
+0&
+1"
+1'
+0!
+1)
+#40

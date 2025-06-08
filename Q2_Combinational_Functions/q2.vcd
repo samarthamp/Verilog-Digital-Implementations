@@ -1,0 +1,748 @@
+$date
+	Wed Oct  2 18:44:02 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module comb_ckt_test $end
+$var wire 1 ! temp $end
+$var wire 1 " Y5 $end
+$var wire 1 # Y4 $end
+$var wire 1 $ Y3 $end
+$var wire 1 % Y2 $end
+$var wire 1 & Y1 $end
+$var reg 1 ' A $end
+$var reg 1 ( B $end
+$var reg 1 ) C $end
+$var reg 1 * D $end
+$var reg 1 + E $end
+$var reg 1 , F $end
+$scope module uut $end
+$var wire 1 ' A $end
+$var wire 1 ( B $end
+$var wire 1 ) C $end
+$var wire 1 * D $end
+$var wire 1 + E $end
+$var wire 1 , F $end
+$var wire 1 & Y1 $end
+$var wire 1 % Y2 $end
+$var wire 1 $ Y3 $end
+$var wire 1 # Y4 $end
+$var wire 1 " Y5 $end
+$var wire 1 - int1 $end
+$var wire 1 . int10 $end
+$var wire 1 / int11 $end
+$var wire 1 0 int12 $end
+$var wire 1 1 int13 $end
+$var wire 1 2 int14 $end
+$var wire 1 3 int15 $end
+$var wire 1 4 int16 $end
+$var wire 1 5 int17 $end
+$var wire 1 6 int18 $end
+$var wire 1 7 int19 $end
+$var wire 1 8 int2 $end
+$var wire 1 9 int3 $end
+$var wire 1 : int4 $end
+$var wire 1 ; int5 $end
+$var wire 1 < int6 $end
+$var wire 1 = int7 $end
+$var wire 1 > int8 $end
+$var wire 1 ? int9 $end
+$var wire 1 @ notB $end
+$var wire 1 A notC $end
+$var wire 1 B notD $end
+$var wire 1 ! temp $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 C i [31:0] $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 D j [31:0] $end
+$scope begin $ivl_for_loop2 $end
+$var integer 32 E k [31:0] $end
+$scope begin $ivl_for_loop3 $end
+$var integer 32 F l [31:0] $end
+$scope begin $ivl_for_loop4 $end
+$var integer 32 G m [31:0] $end
+$scope begin $ivl_for_loop5 $end
+$var integer 32 H n [31:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 H
+b0 G
+b0 F
+b0 E
+b0 D
+b0 C
+1B
+1A
+1@
+1?
+1>
+1=
+0<
+0;
+1:
+19
+18
+17
+06
+15
+14
+13
+12
+01
+10
+1/
+1.
+1-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+1$
+0#
+1"
+1!
+$end
+#10
+0>
+1,
+b1 H
+#20
+0$
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#30
+0>
+1,
+b1 H
+#40
+0!
+1$
+0"
+01
+1#
+16
+1>
+10
+03
+0B
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#50
+0>
+1,
+b1 H
+#60
+0=
+0$
+1<
+11
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#70
+1%
+0>
+1,
+b1 H
+#80
+1!
+1$
+1=
+1"
+0%
+01
+0<
+0#
+05
+06
+1>
+10
+1:
+13
+1B
+0A
+0,
+0+
+0*
+1)
+b1 E
+b0 F
+b0 G
+b0 H
+#90
+0>
+1,
+b1 H
+#100
+0$
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#110
+0>
+1,
+b1 H
+#120
+0!
+0"
+1&
+1#
+15
+16
+1>
+10
+08
+0/
+03
+0B
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#130
+0>
+1,
+b1 H
+#140
+0=
+1<
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#150
+1%
+0>
+1,
+b1 H
+#160
+1=
+0%
+0<
+0#
+0&
+01
+1$
+1>
+10
+1:
+13
+1B
+18
+1/
+1A
+0.
+0@
+0,
+0+
+0*
+0)
+1(
+b1 D
+b0 E
+b0 F
+b0 G
+b0 H
+#170
+0>
+1,
+b1 H
+#180
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#190
+0>
+1,
+b1 H
+#200
+01
+1#
+1>
+10
+03
+04
+0B
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#210
+0>
+1,
+b1 H
+#220
+0=
+1<
+11
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#230
+1%
+0>
+1,
+b1 H
+#240
+1!
+1=
+1"
+0%
+01
+0<
+0#
+05
+1>
+10
+1:
+13
+14
+1B
+0A
+0,
+0+
+0*
+1)
+b1 E
+b0 F
+b0 G
+b0 H
+#250
+0>
+1,
+b1 H
+#260
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#270
+0>
+1,
+b1 H
+#280
+0!
+0"
+1&
+1#
+15
+1>
+10
+08
+0/
+03
+04
+0B
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#290
+0>
+1,
+b1 H
+#300
+0=
+1<
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#310
+1%
+0>
+1,
+b1 H
+#320
+1!
+1=
+1"
+0%
+0<
+0&
+01
+1$
+0#
+06
+1>
+10
+1:
+13
+1B
+18
+1/
+1A
+1.
+14
+1@
+0?
+02
+0,
+0+
+0*
+0)
+0(
+1'
+b1 C
+b0 D
+b0 E
+b0 F
+b0 G
+b0 H
+#330
+0>
+1,
+b1 H
+#340
+0$
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#350
+0>
+1,
+b1 H
+#360
+0!
+1$
+0"
+01
+16
+1>
+10
+0B
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#370
+0>
+1,
+b1 H
+#380
+0=
+0$
+1<
+11
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#390
+1%
+0>
+1,
+b1 H
+#400
+1!
+1$
+1=
+1"
+0%
+01
+0<
+05
+06
+1>
+10
+1:
+1B
+0A
+0,
+0+
+0*
+1)
+b1 E
+b0 F
+b0 G
+b0 H
+#410
+0>
+1,
+b1 H
+#420
+0$
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#430
+0>
+1,
+b1 H
+#440
+0!
+0"
+1&
+15
+16
+1>
+10
+08
+0/
+0B
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#450
+0>
+1,
+b1 H
+#460
+0=
+1<
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#470
+1%
+0>
+1,
+b1 H
+#480
+1=
+1$
+0%
+0<
+01
+1>
+10
+1:
+1B
+18
+1/
+1A
+0-
+0@
+0,
+0+
+0*
+0)
+1(
+b1 D
+b0 E
+b0 F
+b0 G
+b0 H
+#490
+0>
+1,
+b1 H
+#500
+0$
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#510
+0>
+1,
+b1 H
+#520
+1$
+01
+1#
+1"
+1!
+1>
+10
+04
+0B
+07
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#530
+0>
+1,
+b1 H
+#540
+0=
+0$
+1<
+11
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#550
+1%
+0>
+1,
+b1 H
+#560
+1$
+0%
+01
+0<
+0#
+05
+1"
+1!
+1;
+1>
+10
+1:
+14
+1B
+17
+09
+0A
+0,
+0+
+0*
+1)
+b1 E
+b0 F
+b0 G
+b0 H
+#570
+1%
+0>
+1,
+b1 H
+#580
+0$
+0%
+11
+1>
+00
+0,
+1+
+b1 G
+b0 H
+#590
+1%
+0>
+1,
+b1 H
+#600
+0!
+0"
+0%
+1#
+15
+1>
+10
+08
+0/
+04
+0B
+0,
+0+
+1*
+b1 F
+b0 G
+b0 H
+#610
+1%
+0>
+1,
+b1 H
+#620
+0%
+1<
+1>
+0:
+00
+0,
+1+
+b1 G
+b0 H
+#630
+1%
+0>
+1,
+b1 H
+#640
+b10 C
+b10 D
+b10 E
+b10 F
+b10 G
+b10 H
